@@ -6,8 +6,8 @@
 - [X] ForEach 
 - [X] map
 - [X] filter
-- [X] find
-- [X] every and some
+- [ ] find
+- [ ] every and some
 - [ ] reduce
 - [ ] const and let
 - [ ] Template Strings
