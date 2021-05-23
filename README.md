@@ -6,9 +6,9 @@
 - [X] ForEach 
 - [X] map
 - [X] filter
-- [ ] find
+- [X] find
 - [ ] every and some
-- [ ] reduce
+- [X] reduce
 - [ ] const and let
 - [ ] Template Strings
 - [ ] Arrow functions
