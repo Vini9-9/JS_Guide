@@ -11,4 +11,4 @@
 - [X] reduce
 - [ ] const and let
 - [ ] Template Strings
-- [ ] Arrow functions
+- [X] Arrow functions
